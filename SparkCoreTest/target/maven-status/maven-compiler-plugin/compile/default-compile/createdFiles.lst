@@ -1,0 +1,7 @@
+com\ericsson\core\spark\test\AppLauncher.class
+com\ericsson\core\spark\test\WordCount.class
+com\ericsson\core\spark\test\WordCount$1.class
+com\ericsson\core\spark\test\WordCount$3.class
+com\ericsson\core\spark\test\WordCount$2.class
+com\ericsson\core\spark\test\SimpleApp.class
+com\ericsson\core\spark\test\JavaWordCount.class
